@@ -1,0 +1,31 @@
+body {
+    /* background-color: black; */
+    color: black;
+    /* background-image: url("../images/headphones.jpeg"); */
+}
+
+img {
+    border-radius: 100%;
+}
+
+h1 {
+    font-family: inherit;
+}
+
+p {
+    font-weight: bold;
+    font-family: inherit;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.heading {
+    text-decoration: underline;
+}
+
+.projects a{
+    color: indianred;
+}
